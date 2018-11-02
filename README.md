@@ -17,10 +17,10 @@ On the same page a user can access apps provided by google and also a user is al
 
 ##  The UI page
        
-- [Index page]()
+- [Index page](https://irenyak1.github.io/App_google/index.html)
 
 
-[The user interface can be found here]()
+[The user interface can be found here](https://irenyak1.github.io/App_google/index.html)
 
 ## Author 
 Irene Nyakate
